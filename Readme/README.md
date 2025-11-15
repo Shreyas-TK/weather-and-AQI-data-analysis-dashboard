@@ -120,3 +120,5 @@ Connect to clean CSVs and create visuals.
 	•	🏭 Most Polluted Cities
 	•	📈 Weather & AQI Trend Over 24 Hours
 
+Tabluea dashboard link:
+https://public.tableau.com/views/Weatherandairqualityanalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
